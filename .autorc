@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "raymond-odounhitan2000",
+  "repo": "container-qgbytk0",
+  "name": "raymond-odounhitan2000",
+  "email": "raymond.odounhitan@epitech.eu",
+}
